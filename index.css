@@ -54,7 +54,7 @@ body {
 .input {
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
     align-content: center;
 }
 hr{
