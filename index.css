@@ -1,0 +1,67 @@
+body {
+    padding: 40px;
+    background: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Bentham', serif;
+    font-family: 'Playfair Display', serif;
+
+}
+.main{
+    width: 50%;
+    height: 150%;
+    border: 2em solid #111827;
+    background-color: #ECFDF5;
+}
+
+#gen{
+    margin: 3em 8em 0 0;
+}
+#random{
+    color:#059669;
+    margin: 0 4.5em 0.3em 0;
+}
+#never{
+    margin: 0 1.5em 5em 0;
+}
+
+.btn{
+    color: white;
+    background-color: #059669;
+    padding: 0.8em 2em 0.8em 2em;
+    border: none;
+    border-radius: 0.3em;
+    line-height: 2em;
+    margin: 0 10em 2em 0;
+    font-weight: bold;
+}
+#password-input1 {
+    background: #111827;
+    border-radius: 0.3em;
+    height: 1.8em;
+    margin: 1.5em 2em 5em 10em;
+    width: 11em;
+    color: white;
+}
+#password-input2 {
+    background: #111827;
+    border-radius: 0.3em;
+    height: 1.8em;
+    margin: 1.5em 11em 5em 0em;
+    width: 11em;
+    color: white;
+}
+.input {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-content: center;
+}
+hr{
+    width:46%;
+    text-align:center;
+    background-color: #D5D4D8;
+    border-style: inset;
+    border-width: 0.2em;
+    margin-left: 10em;
+}
